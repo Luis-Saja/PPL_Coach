@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "com.ukdw.pplaicoach.app-debug-64:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.ukdw.pplaicoach.app-main-66:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.ukdw.pplaicoach.app-debug-64:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.ukdw.pplaicoach.app-main-66:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.ukdw.pplaicoach.app-debug-64:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.ukdw.pplaicoach.app-main-66:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.ukdw.pplaicoach.app-debug-64:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.ukdw.pplaicoach.app-main-66:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.ukdw.pplaicoach.app-debug-64:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.ukdw.pplaicoach.app-main-66:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.ukdw.pplaicoach.app-debug-64:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.ukdw.pplaicoach.app-main-66:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.ukdw.pplaicoach.app-debug-64:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.ukdw.pplaicoach.app-main-66:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.ukdw.pplaicoach.app-debug-64:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.ukdw.pplaicoach.app-main-66:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.ukdw.pplaicoach.app-debug-64:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.ukdw.pplaicoach.app-main-66:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.ukdw.pplaicoach.app-debug-64:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.ukdw.pplaicoach.app-main-66:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.ukdw.pplaicoach.app-debug-64:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.ukdw.pplaicoach.app-main-66:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.ukdw.pplaicoach.app-debug-64:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.ukdw.pplaicoach.app-main-66:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.ukdw.pplaicoach.app-debug-64:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.ukdw.pplaicoach.app-main-66:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.ukdw.pplaicoach.app-debug-64:/drawable_ic_splash.xml.flat",
+        "source": "com.ukdw.pplaicoach.app-main-66:/drawable/ic_splash.xml"
+    },
+    {
+        "merged": "com.ukdw.pplaicoach.app-debug-64:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.ukdw.pplaicoach.app-main-66:/mipmap-mdpi/ic_launcher.webp"
+    }
+]

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PPL AI Coach</string>
+    <style name="Theme.PPLAICoach" parent="android:Theme.Material.Light.NoActionBar"/>
+    <style name="Theme.PPLAICoach.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">#1565C0</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_splash</item>
+        <item name="postSplashScreenTheme">@style/Theme.PPLAICoach</item>
+    </style>
+</resources>
