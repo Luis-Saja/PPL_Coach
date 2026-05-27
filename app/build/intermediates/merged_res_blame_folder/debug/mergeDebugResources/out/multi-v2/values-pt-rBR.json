@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.ukdw.pplaicoach.app-mergeDebugResources-62:/values-pt-rBR/values-pt-rBR.xml",
+            "outputFile": "com.ukdw.pplaicoach.app-mergeDebugResources-2:/values-pt-rBR/values-pt-rBR.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Asus\\.gradle\\caches\\8.9\\transforms\\c2fa69bb9ac05d18c2dd48cc8ab56daf\\transformed\\foundation-release\\res\\values-pt-rBR\\values-pt-rBR.xml",

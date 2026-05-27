@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.ukdw.pplaicoach.app-mergeDebugResources-62:/values-watch-v20/values-watch-v20.xml",
+            "outputFile": "com.ukdw.pplaicoach.app-mergeDebugResources-2:/values-watch-v20/values-watch-v20.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Asus\\.gradle\\caches\\8.9\\transforms\\e69306dfc64c2b34996defb76bef4fe1\\transformed\\core-splashscreen-1.0.1\\res\\values-watch-v20\\values-watch-v20.xml",

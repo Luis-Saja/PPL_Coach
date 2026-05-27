@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.ukdw.pplaicoach.app-mergeDebugResources-62:/values/values.xml",
+            "outputFile": "com.ukdw.pplaicoach.app-mergeDebugResources-2:/values/values.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Asus\\.gradle\\caches\\8.9\\transforms\\223431c3122276d685a818ab4db52770\\transformed\\core-1.13.1\\res\\values\\values.xml",
@@ -75,6 +75,42 @@
                         "startOffsets": "18486",
                         "endColumns": "53",
                         "endOffsets": "18535"
+                    }
+                },
+                {
+                    "source": "C:\\PPL_Coach\\app\\src\\main\\res\\values\\themes.xml",
+                    "from": {
+                        "startLines": "3,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "88,177",
+                        "endLines": "3,9",
+                        "endColumns": "87,12",
+                        "endOffsets": "171,474"
+                    },
+                    "to": {
+                        "startLines": "1851,1852",
+                        "startColumns": "4,4",
+                        "startOffsets": "122872,122959",
+                        "endLines": "1851,1856",
+                        "endColumns": "86,12",
+                        "endOffsets": "122954,123256"
+                    }
+                },
+                {
+                    "source": "C:\\PPL_Coach\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "49",
+                        "endOffsets": "61"
+                    },
+                    "to": {
+                        "startLines": "324",
+                        "startColumns": "4",
+                        "startOffsets": "21110",
+                        "endColumns": "49",
+                        "endOffsets": "21155"
                     }
                 },
                 {
@@ -294,23 +330,6 @@
                     }
                 },
                 {
-                    "source": "D:\\PPL\\PPLAICoach\\app\\src\\main\\res\\values\\strings.xml",
-                    "from": {
-                        "startLines": "1",
-                        "startColumns": "4",
-                        "startOffsets": "16",
-                        "endColumns": "49",
-                        "endOffsets": "61"
-                    },
-                    "to": {
-                        "startLines": "324",
-                        "startColumns": "4",
-                        "startOffsets": "21110",
-                        "endColumns": "49",
-                        "endOffsets": "21155"
-                    }
-                },
-                {
                     "source": "C:\\Users\\Asus\\.gradle\\caches\\8.9\\transforms\\bf5ace4d8627060b939a4547dd59c656\\transformed\\lifecycle-runtime-release\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2",
@@ -325,25 +344,6 @@
                         "startOffsets": "18383",
                         "endColumns": "42",
                         "endOffsets": "18421"
-                    }
-                },
-                {
-                    "source": "D:\\PPL\\PPLAICoach\\app\\src\\main\\res\\values\\themes.xml",
-                    "from": {
-                        "startLines": "3,5",
-                        "startColumns": "4,4",
-                        "startOffsets": "88,177",
-                        "endLines": "3,9",
-                        "endColumns": "87,12",
-                        "endOffsets": "171,474"
-                    },
-                    "to": {
-                        "startLines": "1851,1852",
-                        "startColumns": "4,4",
-                        "startOffsets": "122872,122959",
-                        "endLines": "1851,1856",
-                        "endColumns": "86,12",
-                        "endOffsets": "122954,123256"
                     }
                 }
             ]

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.ukdw.pplaicoach.app-mergeDebugResources-62:/values-v30/values-v30.xml",
+            "outputFile": "com.ukdw.pplaicoach.app-mergeDebugResources-2:/values-v30/values-v30.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Asus\\.gradle\\caches\\8.9\\transforms\\c648dc58591b8268169eefaab046529a\\transformed\\material3-release\\res\\values-v30\\values-v30.xml",

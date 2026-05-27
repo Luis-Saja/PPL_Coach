@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.ukdw.pplaicoach.app-mergeDebugResources-62:/values-zh-rHK/values-zh-rHK.xml",
+            "outputFile": "com.ukdw.pplaicoach.app-mergeDebugResources-2:/values-zh-rHK/values-zh-rHK.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Asus\\.gradle\\caches\\8.9\\transforms\\c648dc58591b8268169eefaab046529a\\transformed\\material3-release\\res\\values-zh-rHK\\values-zh-rHK.xml",

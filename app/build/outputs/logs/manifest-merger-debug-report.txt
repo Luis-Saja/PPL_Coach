@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\PPL\PPLAICoach\app\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from D:\PPL\PPLAICoach\app\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from D:\PPL\PPLAICoach\app\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from D:\PPL\PPLAICoach\app\src\main\AndroidManifest.xml:2:1-27:12
+ADDED from C:\PPL_Coach\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\PPL_Coach\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\PPL_Coach\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\PPL_Coach\app\src\main\AndroidManifest.xml:2:1-27:12
 MERGED from [androidx.navigation:navigation-common:2.7.7] C:\Users\Asus\.gradle\caches\8.9\transforms\865a3b4d3bf9fc681c749d96880aac36\transformed\navigation-common-2.7.7\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.navigation:navigation-runtime:2.7.7] C:\Users\Asus\.gradle\caches\8.9\transforms\3482bd5ae6e579d424dd88aa65bee300\transformed\navigation-runtime-2.7.7\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.navigation:navigation-common-ktx:2.7.7] C:\Users\Asus\.gradle\caches\8.9\transforms\2a01325b55730afa0d189f4fc363c0c7\transformed\navigation-common-ktx-2.7.7\AndroidManifest.xml:2:1-7:12
@@ -80,18 +80,18 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Asus\.gradle\cache
 MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Asus\.gradle\caches\8.9\transforms\997da447c8c56287637929c368cfffb8\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Asus\.gradle\caches\8.9\transforms\8c3baf4ca589036d095ea36bf78d2b73\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
 	package
-		INJECTED from D:\PPL\PPLAICoach\app\src\main\AndroidManifest.xml
+		INJECTED from C:\PPL_Coach\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from D:\PPL\PPLAICoach\app\src\main\AndroidManifest.xml
+		INJECTED from C:\PPL_Coach\app\src\main\AndroidManifest.xml
 	xmlns:tools
-		ADDED from D:\PPL\PPLAICoach\app\src\main\AndroidManifest.xml:3:5-51
+		ADDED from C:\PPL_Coach\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from D:\PPL\PPLAICoach\app\src\main\AndroidManifest.xml
+		INJECTED from C:\PPL_Coach\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\PPL\PPLAICoach\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\PPL_Coach\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from D:\PPL\PPLAICoach\app\src\main\AndroidManifest.xml:5:5-25:19
-INJECTED from D:\PPL\PPLAICoach\app\src\main\AndroidManifest.xml:5:5-25:19
+ADDED from C:\PPL_Coach\app\src\main\AndroidManifest.xml:5:5-25:19
+INJECTED from C:\PPL_Coach\app\src\main\AndroidManifest.xml:5:5-25:19
 MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Asus\.gradle\caches\8.9\transforms\a83943f30add4ff54e276bfd379e9760\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
 MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Asus\.gradle\caches\8.9\transforms\a83943f30add4ff54e276bfd379e9760\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
 MERGED from [androidx.lifecycle:lifecycle-process:2.8.4] C:\Users\Asus\.gradle\caches\8.9\transforms\79626e3bd30ebf5619d31d7813e8a4b5\transformed\lifecycle-process-2.8.4\AndroidManifest.xml:23:5-33:19
@@ -111,47 +111,47 @@ MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Asus\.gr
 MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Asus\.gradle\caches\8.9\transforms\b15c473869abaca051837ab580c7ec09\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
 MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Asus\.gradle\caches\8.9\transforms\b15c473869abaca051837ab580c7ec09\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
 	android:extractNativeLibs
-		INJECTED from D:\PPL\PPLAICoach\app\src\main\AndroidManifest.xml
+		INJECTED from C:\PPL_Coach\app\src\main\AndroidManifest.xml
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.13.1] C:\Users\Asus\.gradle\caches\8.9\transforms\223431c3122276d685a818ab4db52770\transformed\core-1.13.1\AndroidManifest.xml:28:18-86
 	android:supportsRtl
-		ADDED from D:\PPL\PPLAICoach\app\src\main\AndroidManifest.xml:11:9-35
+		ADDED from C:\PPL_Coach\app\src\main\AndroidManifest.xml:11:9-35
 	android:label
-		ADDED from D:\PPL\PPLAICoach\app\src\main\AndroidManifest.xml:9:9-41
+		ADDED from C:\PPL_Coach\app\src\main\AndroidManifest.xml:9:9-41
 	android:roundIcon
-		ADDED from D:\PPL\PPLAICoach\app\src\main\AndroidManifest.xml:10:9-54
+		ADDED from C:\PPL_Coach\app\src\main\AndroidManifest.xml:10:9-54
 	tools:targetApi
-		ADDED from D:\PPL\PPLAICoach\app\src\main\AndroidManifest.xml:13:9-29
+		ADDED from C:\PPL_Coach\app\src\main\AndroidManifest.xml:13:9-29
 	android:icon
-		ADDED from D:\PPL\PPLAICoach\app\src\main\AndroidManifest.xml:8:9-43
+		ADDED from C:\PPL_Coach\app\src\main\AndroidManifest.xml:8:9-43
 	android:allowBackup
-		ADDED from D:\PPL\PPLAICoach\app\src\main\AndroidManifest.xml:7:9-35
+		ADDED from C:\PPL_Coach\app\src\main\AndroidManifest.xml:7:9-35
 	android:theme
-		ADDED from D:\PPL\PPLAICoach\app\src\main\AndroidManifest.xml:12:9-48
+		ADDED from C:\PPL_Coach\app\src\main\AndroidManifest.xml:12:9-48
 	android:name
-		ADDED from D:\PPL\PPLAICoach\app\src\main\AndroidManifest.xml:6:9-38
+		ADDED from C:\PPL_Coach\app\src\main\AndroidManifest.xml:6:9-38
 activity#com.ukdw.pplaicoach.MainActivity
-ADDED from D:\PPL\PPLAICoach\app\src\main\AndroidManifest.xml:15:9-23:20
+ADDED from C:\PPL_Coach\app\src\main\AndroidManifest.xml:15:9-23:20
 	android:exported
-		ADDED from D:\PPL\PPLAICoach\app\src\main\AndroidManifest.xml:17:13-36
+		ADDED from C:\PPL_Coach\app\src\main\AndroidManifest.xml:17:13-36
 	android:theme
-		ADDED from D:\PPL\PPLAICoach\app\src\main\AndroidManifest.xml:18:13-59
+		ADDED from C:\PPL_Coach\app\src\main\AndroidManifest.xml:18:13-59
 	android:name
-		ADDED from D:\PPL\PPLAICoach\app\src\main\AndroidManifest.xml:16:13-41
+		ADDED from C:\PPL_Coach\app\src\main\AndroidManifest.xml:16:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\PPL\PPLAICoach\app\src\main\AndroidManifest.xml:19:13-22:29
+ADDED from C:\PPL_Coach\app\src\main\AndroidManifest.xml:19:13-22:29
 action#android.intent.action.MAIN
-ADDED from D:\PPL\PPLAICoach\app\src\main\AndroidManifest.xml:20:17-69
+ADDED from C:\PPL_Coach\app\src\main\AndroidManifest.xml:20:17-69
 	android:name
-		ADDED from D:\PPL\PPLAICoach\app\src\main\AndroidManifest.xml:20:25-66
+		ADDED from C:\PPL_Coach\app\src\main\AndroidManifest.xml:20:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\PPL\PPLAICoach\app\src\main\AndroidManifest.xml:21:17-77
+ADDED from C:\PPL_Coach\app\src\main\AndroidManifest.xml:21:17-77
 	android:name
-		ADDED from D:\PPL\PPLAICoach\app\src\main\AndroidManifest.xml:21:27-74
+		ADDED from C:\PPL_Coach\app\src\main\AndroidManifest.xml:21:27-74
 uses-sdk
-INJECTED from D:\PPL\PPLAICoach\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from D:\PPL\PPLAICoach\app\src\main\AndroidManifest.xml
-INJECTED from D:\PPL\PPLAICoach\app\src\main\AndroidManifest.xml
+INJECTED from C:\PPL_Coach\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\PPL_Coach\app\src\main\AndroidManifest.xml
+INJECTED from C:\PPL_Coach\app\src\main\AndroidManifest.xml
 MERGED from [androidx.navigation:navigation-common:2.7.7] C:\Users\Asus\.gradle\caches\8.9\transforms\865a3b4d3bf9fc681c749d96880aac36\transformed\navigation-common-2.7.7\AndroidManifest.xml:20:5-44
 MERGED from [androidx.navigation:navigation-common:2.7.7] C:\Users\Asus\.gradle\caches\8.9\transforms\865a3b4d3bf9fc681c749d96880aac36\transformed\navigation-common-2.7.7\AndroidManifest.xml:20:5-44
 MERGED from [androidx.navigation:navigation-runtime:2.7.7] C:\Users\Asus\.gradle\caches\8.9\transforms\3482bd5ae6e579d424dd88aa65bee300\transformed\navigation-runtime-2.7.7\AndroidManifest.xml:20:5-44
@@ -303,9 +303,9 @@ MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Asus\.gradle\caches\8.9\tr
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Asus\.gradle\caches\8.9\transforms\8c3baf4ca589036d095ea36bf78d2b73\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Asus\.gradle\caches\8.9\transforms\8c3baf4ca589036d095ea36bf78d2b73\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
 	android:targetSdkVersion
-		INJECTED from D:\PPL\PPLAICoach\app\src\main\AndroidManifest.xml
+		INJECTED from C:\PPL_Coach\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\PPL\PPLAICoach\app\src\main\AndroidManifest.xml
+		INJECTED from C:\PPL_Coach\app\src\main\AndroidManifest.xml
 provider#androidx.startup.InitializationProvider
 ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Asus\.gradle\caches\8.9\transforms\a83943f30add4ff54e276bfd379e9760\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
 MERGED from [androidx.lifecycle:lifecycle-process:2.8.4] C:\Users\Asus\.gradle\caches\8.9\transforms\79626e3bd30ebf5619d31d7813e8a4b5\transformed\lifecycle-process-2.8.4\AndroidManifest.xml:24:9-32:20
