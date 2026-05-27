@@ -1,4 +1,4 @@
-# 🏋️ PPL AI Coach
+#  PPL AI Coach
 
 > **Aplikasi Android Workout Coach Berbasis AI (Offline)**
 >
@@ -8,21 +8,21 @@ Aplikasi mobile berbasis **Expert System (Sistem Pakar)** dengan metode **Forwar
 
 ---
 
-## 📋 Fitur Utama
+##  Fitur Utama
 
 | Fitur | Deskripsi |
 |-------|-----------|
-| 🧠 **AI Expert System** | Forward Chaining (6 rules) untuk rekomendasi latihan berdasarkan kondisi fisik |
-| 📊 **Workout Tracker** | Catat set, reps, dan berat per gerakan dengan pilihan Push/Pull/Legs day |
-| ⏱️ **Rest Timer** | Countdown timer melingkar (60/90/120 detik) otomatis setelah log set |
-| 📈 **Progress Chart** | Visualisasi progress max weight per exercise menggunakan Vico chart |
-| 🔄 **Auto-Suggest PPL Day** | Otomatis menyarankan hari berikutnya (Push→Pull→Legs→Push) |
-| 📚 **Exercise Guide** | Instruksi langkah-demi-langkah + link video YouTube untuk setiap gerakan |
-| 💾 **100% Offline** | Semua data tersimpan lokal di Room Database |
+|  **AI Expert System** | Forward Chaining (6 rules) untuk rekomendasi latihan berdasarkan kondisi fisik |
+| **Workout Tracker** | Catat set, reps, dan berat per gerakan dengan pilihan Push/Pull/Legs day |
+|  **Rest Timer** | Countdown timer melingkar (60/90/120 detik) otomatis setelah log set |
+|  **Progress Chart** | Visualisasi progress max weight per exercise menggunakan Vico chart |
+|  **Auto-Suggest PPL Day** | Otomatis menyarankan hari berikutnya (Push→Pull→Legs→Push) |
+|  **Exercise Guide** | Instruksi langkah-demi-langkah + link video YouTube untuk setiap gerakan |
+|  **100% Offline** | Semua data tersimpan lokal di Room Database |
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Bahasa:** Kotlin
 - **UI:** Jetpack Compose + Material Design 3
@@ -34,7 +34,7 @@ Aplikasi mobile berbasis **Expert System (Sistem Pakar)** dengan metode **Forwar
 
 ---
 
-## 🚀 Cara Menjalankan Aplikasi
+##  Cara Menjalankan Aplikasi
 
 ### Prasyarat
 
@@ -64,7 +64,7 @@ cd PPLAICoach
 1. Buka **Device Manager** (ikon ponsel di toolbar kanan)
 2. Klik **Create Virtual Device**
 3. Pilih device (contoh: Pixel 6) → pilih system image (min. API 24) → Finish
-4. Klik tombol **Run ▶️** (Shift+F10)
+4. Klik tombol **Run ** (Shift+F10)
 
 **Opsi B — Menggunakan Perangkat Fisik:**
 1. Aktifkan **Developer Options** di HP:
@@ -73,7 +73,7 @@ cd PPLAICoach
    - Buka **Settings → Developer Options → USB Debugging** → ON
 3. Sambungkan HP ke PC via kabel USB
 4. Pilih perangkat di dropdown toolbar Android Studio
-5. Klik tombol **Run ▶️** (Shift+F10)
+5. Klik tombol **Run ** (Shift+F10)
 
 #### 4. Build APK (Opsional)
 
@@ -95,35 +95,35 @@ Transfer file ini ke HP dan instal (pastikan **Install from Unknown Sources** di
 
 ## 📱 Cara Menggunakan Aplikasi
 
-### Tab 1: 🏠 Home
+### Tab 1:  Home
 - Dashboard utama dengan ringkasan sesi terakhir
 - **AI Insight** menampilkan analisis tren latihan
 
-### Tab 2: 💪 AI Coach
+### Tab 2:  AI Coach
 - Input kondisi fisik: durasi tidur, nyeri otot, tujuan, performa sebelumnya
 - AI Forward Chaining menganalisis 6 rules dan memberikan rekomendasi:
   - **Normal Training** / **Light Training** / **Rest Day**
   - Penyesuaian beban dan volume (%)
   - Confidence score + jejak inferensi lengkap
 
-### Tab 3: 📝 Tracker
+### Tab 3:  Tracker
 - Pilih hari latihan: **Push** / **Pull** / **Legs** (auto-suggest berdasarkan sesi terakhir)
 - Lihat daftar gerakan dengan instruksi + video YouTube
 - Mulai workout → log set (berat kg, reps, intensitas)
 - Rest timer otomatis muncul setelah log set
 - Lihat progress chart per exercise
 
-### Tab 4: 📜 Riwayat
+### Tab 4:  Riwayat
 - Daftar semua sesi AI Coach yang tersimpan
 - Filter berdasarkan tipe rekomendasi
 
-### Tab 5: 👤 Profil
+### Tab 5:  Profil
 - Ubah nama pengguna dan default goal
 - Reset riwayat
 
 ---
 
-## 📂 Struktur Proyek
+##  Struktur Proyek
 
 ```
 app/src/main/java/com/ukdw/pplaicoach/
@@ -165,7 +165,7 @@ app/src/main/java/com/ukdw/pplaicoach/
 
 ---
 
-## 🧪 Testing
+##  Testing
 
 ```bash
 # Jalankan unit tests (InferenceEngine)
@@ -179,6 +179,4 @@ app/src/main/java/com/ukdw/pplaicoach/
 
 ---
 
-## 📄 Lisensi
 
-Proyek ini dibuat untuk keperluan akademik mata kuliah **TI0263 – Kecerdasan Buatan** di **Universitas Kristen Duta Wacana (UKDW)**.
